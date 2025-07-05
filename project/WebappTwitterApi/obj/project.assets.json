@@ -5566,11 +5566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\WebappTwitterApi\\WebappTwitterApi.csproj",
+      "projectUniqueName": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\WebappTwitterApi.csproj",
       "projectName": "WebappTwitterApi",
-      "projectPath": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\WebappTwitterApi\\WebappTwitterApi.csproj",
+      "projectPath": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\WebappTwitterApi.csproj",
       "packagesPath": "C:\\Users\\StaR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\WebappTwitterApi\\obj\\",
+      "outputPath": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

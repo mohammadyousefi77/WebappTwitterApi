@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PR6sUxnMFps=",
+  "dgSpecHash": "BJLOjYJ1LkI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\WebappTwitterApi\\WebappTwitterApi.csproj",
+  "projectFilePath": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\WebappTwitterApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\StaR\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\StaR\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

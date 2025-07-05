@@ -30,7 +30,7 @@ builder.Services.AddDefaultIdentity<User>(options =>
     
 
 })
-    .AddEntityFrameworkStores<ApplicationDbContext>();
+    .AddEntityFrameworkStores<ApplicationDbContext>().AddApiEndpoints();
 
 builder.Services.AddScoped<IUintOfWork,UnitOfWork>();
 builder.Services.AddScoped<IUserServices, UserSevices>();
@@ -52,6 +52,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+app.MapGroup("api/user").MapIdentityApi<User>();
 
 app.MapControllers();
 
