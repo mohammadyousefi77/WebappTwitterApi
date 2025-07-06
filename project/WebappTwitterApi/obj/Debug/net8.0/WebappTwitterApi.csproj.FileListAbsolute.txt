@@ -305,3 +305,4 @@ C:\Users\StaR\source\repos\WebappTwitterApi\project\WebappTwitterApi\obj\Debug\n
 C:\Users\StaR\source\repos\WebappTwitterApi\project\WebappTwitterApi\obj\Debug\net8.0\WebappTwitterApi.pdb
 C:\Users\StaR\source\repos\WebappTwitterApi\project\WebappTwitterApi\obj\Debug\net8.0\WebappTwitterApi.genruntimeconfig.cache
 C:\Users\StaR\source\repos\WebappTwitterApi\project\WebappTwitterApi\obj\Debug\net8.0\ref\WebappTwitterApi.dll
+C:\Users\StaR\source\repos\WebappTwitterApi\project\WebappTwitterApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

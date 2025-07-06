@@ -3,16 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\webapptwitterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\webapptwitterapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\services\\usersevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\services\\usersevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\StaR\\AppData\\Local\\SourceServer\\4b87e780d681337b966887cc88b17361f13e92629cfda32d39034db24e6c489b\\project\\WebappTwitterApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\data\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\data\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|c:\\users\\star\\source\\repos\\webapptwitterapi\\project\\webapptwitterapi\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F5C8B80-045E-456E-8941-785346E5279F}|WebappTwitterApi\\WebappTwitterApi.csproj|solutionrelative:webapptwitterapi\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,45 +58,145 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebappTwitterApi",
-              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\WebappTwitterApi.csproj",
-              "RelativeDocumentMoniker": "WebappTwitterApi\\WebappTwitterApi.csproj",
-              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\WebappTwitterApi.csproj",
-              "RelativeToolTip": "WebappTwitterApi\\WebappTwitterApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-05T18:27:22.875Z",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebappTwitterApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebappTwitterApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:37:29.213Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebappTwitterApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\appsettings.json",
+              "RelativeToolTip": "WebappTwitterApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T02:14:22.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Data\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "WebappTwitterApi\\Data\\Entity\\User.cs",
+              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Data\\Entity\\User.cs",
+              "RelativeToolTip": "WebappTwitterApi\\Data\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T01:42:50.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\libman.json",
+              "RelativeDocumentMoniker": "WebappTwitterApi\\libman.json",
+              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\libman.json",
+              "RelativeToolTip": "WebappTwitterApi\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T01:08:36.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebappTwitterApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebappTwitterApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:18:01.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Program.cs",
               "RelativeDocumentMoniker": "WebappTwitterApi\\Program.cs",
               "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Program.cs",
               "RelativeToolTip": "WebappTwitterApi\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAGAAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-05T17:50:36.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "WebappTwitterApi\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "WebappTwitterApi\\Controllers\\UserController.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "UserSevices.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Services\\UserSevices.cs",
+              "RelativeDocumentMoniker": "WebappTwitterApi\\Services\\UserSevices.cs",
+              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Services\\UserSevices.cs",
+              "RelativeToolTip": "WebappTwitterApi\\Services\\UserSevices.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwEYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T17:44:04.345Z",
+              "WhenOpened": "2025-07-06T07:48:32.058Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebappTwitterApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\appsettings.Development.json",
+              "RelativeToolTip": "WebappTwitterApi\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T02:14:32.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "WebappTwitterApi\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Services\\BaseService.cs",
+              "RelativeToolTip": "WebappTwitterApi\\Services\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:48:27.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebappTwitterApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\StaR\\source\\repos\\WebappTwitterApi\\project\\WebappTwitterApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebappTwitterApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T02:14:57.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StaR\\AppData\\Local\\SourceServer\\4b87e780d681337b966887cc88b17361f13e92629cfda32d39034db24e6c489b\\project\\WebappTwitterApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\4b87e780d681337b966887cc88b17361f13e92629cfda32d39034db24e6c489b\\project\\WebappTwitterApi\\Program.cs",
+              "ToolTip": "C:\\Users\\StaR\\AppData\\Local\\SourceServer\\4b87e780d681337b966887cc88b17361f13e92629cfda32d39034db24e6c489b\\project\\WebappTwitterApi\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\4b87e780d681337b966887cc88b17361f13e92629cfda32d39034db24e6c489b\\project\\WebappTwitterApi\\Program.cs [Read Only]",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T07:28:12.723Z",
+              "EditorCaption": " [Read Only]"
             }
           ]
         }

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebappTwitterApi.Contract;
 using WebappTwitterApi.Data.Entity;
 using WebappTwitterApi.Data.Models.User;
@@ -16,8 +17,10 @@ namespace WebappTwitterApi.Controllers
             _logger = logger;
             _userServices = userServices;
         }
+     
 
         [HttpGet]
+        [Authorize]
         public async Task<IActionResult> GetAll()
         {
 
@@ -26,6 +29,7 @@ namespace WebappTwitterApi.Controllers
         }
 
         [HttpGet("{id}")]
+      
         public async Task<IActionResult> GetById(string id)
         {
             
